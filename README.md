@@ -13,19 +13,23 @@ Good documentation and code organization will also be important for this project
 # Procedure:
 Import required python libraries
 
-  pip install streamlit
-  pip install easyocr
-  pip install ipython
-  pip install opencv-python
-  pip install pylab-sdk
+    pip install streamlit
+
+    pip install easyocr
+
+    pip install ipython
+
+    pip install opencv-python
+
+    pip install pylab-sdk
 
 Command for run phonpe script:
 
-  Open command Prompt. 
-  
-  Go to such directories.
-  
-  Run -> streamlit run Home_page.py
+    Open command Prompt. 
+
+    Go to such directories.
+
+    Run -> streamlit run Home_page.py
   
 # Outcome
 
